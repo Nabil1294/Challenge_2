@@ -45,6 +45,14 @@ designed web page as to be representing my resume in a unique professional way t
 ![example-1 showing projects and their links](./assets/images/example-3.png)
 ![example-1 showing all 3 ways of contacting](./assets/images/example-4.png)
 
+### Deployed Page Link:
+
+https://nabil1294.github.io/Challenge_2/
+
+
+
+
+
 ## Credits.
 
 Onlie resources used.
